@@ -1,5 +1,4 @@
 *.pdf
-*.html
 *.docx
 .DS_Store
 
@@ -123,7 +122,7 @@ modules.xml
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
 
 # Thumbnails
 ._*
@@ -197,9 +196,7 @@ Temporary Items
 # Ignores the whole .idea folder and all .iml files
 # See https://github.com/joeblau/gitignore.io/issues/186 and https://github.com/joeblau/gitignore.io/issues/360
 
-
 # Reason: https://github.com/joeblau/gitignore.io/issues/186#issuecomment-249601023
-
 
 # Sonarlint plugin
 
@@ -417,4 +414,3 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,pycharm+all,jetbrains+all,linux,macos,windows,python,virtualenv
-
