@@ -33,11 +33,11 @@ Master student at TU Vienna.
 
 ### KDS, Vienna | Software Engineer | 10/2019 - Present
 
-* Designing a camera software for welding robots. Full stack from hardware to frontend.
+* Designing a camera software for welding robots. Full stack development.
   * Planning the process with UML diagrams.
   * Frontend in Angular with FastAPI endpoints.
-  * Python state machines and microservices communicating over redis and memcached.
-  * C/C++ embedded programming on a raspberry pi 4 and stm32.
+  * Python state machines, microservices, redis and memcached.
+  * C/C++ embedded programming, Raspberry Pi 4, STM32, realtime operating system.
   * Multiplatform automated tests with Github Actions and Docker.
 
 ### OMV, Vienna | Sales Assistant | 09/2019 - 09/2019
@@ -51,7 +51,7 @@ Master student at TU Vienna.
 
 ## Education
 
-### Master of Science in Software & Information Engineering, expected graduation 05/2025
+### Master of Science in Software Engineering & Internet Computing, expected graduation 05/2025
 
 * Vienna University of Technology, Austria
 
@@ -67,7 +67,7 @@ Master student at TU Vienna.
 
 ## Skills
 
-* **Languages:** Bulgarian(native) | German (native) | English (fluent) | French (fluent) | Russian (basic)
+* **Languages:** Bulgarian (native) | German (native) | English (fluent) | French (fluent) | Russian (basic)
 * **Programming languages:** Java | Python | Javascript | C++ | C | VBA | Go | Haskell
 * **System Technologies:** Linux | Windows Server | FreeRtos | HyperV
 * **Data analysis & visualization:** Pandas | Matplotlib | Numpy | Scipy | Jupyter
