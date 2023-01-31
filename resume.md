@@ -1,85 +1,84 @@
 ---
-pagetitle: Manuel Olguín Muñoz
+pagetitle: Aydan Namdar Ghazani
 ...
-
 <!-- <script src="https://kit.fontawesome.com/e611f8d768.js" crossorigin="anonymous"  data-auto-a11y="true"></script> -->
 <script src="https://use.fontawesome.com/releases/v6.0.0/js/all.js" data-auto-a11y="true" ></script>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arimo">
 
-<!-- # Manuel Olguín Muñoz -->
-
+<!-- # Aydan Namdar Ghazani -->
 <header>
-  <h1>Manuel Olguín Muñoz</h1>
+  <h1>Aydan Namdar Ghazani</h1>
   <span><p>
-  [<i class="fas fa-envelope"></i>&nbsp;manuel@olguinmunoz.xyz](mailto:manuel@olguinmunoz.xyz)</br>
-  [<i class="fa-solid fa-phone"></i>&nbsp;+46 73 652 7628](tel:0046736527628)</br>
-  [<i class="fa-solid fa-map-location"></i>&nbsp;Stockholm, Sweden](https://goo.gl/maps/2gkFtNR6N4WPFc3c7)
+  [<i class="fa-solid fa-map-location"></i>&nbsp;Adelheid-poppgasse 20, Vienna, 1220](https://goo.gl/maps/sc3xXZbSfJEg6QfA7)</br>
+  [<i class="fa-solid fa-phone"></i>&nbsp;+43 6649156233](tel:+43 6649156233)</br>
+  [<i class="fas fa-envelope"></i>&nbsp;ghazani.aydan@gmail.com](mailto:ghazani.aydan@gmail.xyz)</br>
+  DOB: 11.05.1998 &nbsp; Age:24</br>
+  Austrian</br>
+  Male, single
   </p>
   </span>
 </header>
 
 <span>
-[<i class="fas fa-link"></i>&nbsp;manuel.olguinmunoz.xyz](https://manuel.olguinmunoz.xyz)&nbsp;&nbsp;|&nbsp;&nbsp;[<i class="fa-brands fa-github fa-lg"></i>&nbsp;github.com/molguin92](https://github.com/molguin92)&nbsp;&nbsp;|&nbsp;&nbsp;[<i class="fa-brands fa-linkedin fa-lg"></i>&nbsp;linkedin.com/in/molguin92](https://www.linkedin.com/in/molguin92/)
+[<i class="fa-brands fa-github fa-lg"></i>&nbsp;github.com/4ydan](https://github.com/4ydan)&nbsp;&nbsp;
 </span>
 
-## Professional Summary
+## Summary
 
-Doctoral candidate at KTH researching latency-sensitive distributed applications on Edge Computing.
+Master student at TU Vienna.
 
-* 5 years of professional work and research experience using Python and Linux.
-* 3 years of experience with public clouds (AWS, GCP) and related technologies (Docker, `boto3`).
-* Deep understanding of the TCP/IP networking stack.
+* 4 years of part-time cutting edge experience in the welding industry using Python/C++ and Linux.
 
-## Work Experience
+## Experience
 
-### KTH Royal Institute of Technology, Sweden | Doctoral Researcher | 09/2017 - Present
+### KDS, Vienna | Software Engineer | 10/2019 - Present
 
-* Designed and built the first reprogrammable and reconfigurable [Edge Computing testbed](https://manuel.olguinmunoz.xyz/projects/expeca_testbed/) in Sweden.
-  * Automated workload orchestration with Python and Docker Swarm.
-  * Integrated AWS public cloud capabilities using the `boto3` Python library.
-* Published research on Augmented Reality and Edge Computing in renowned publications and venues such as [PLOS ONE](https://journals.plos.org/plosone/), [ACM HotMobile](http://www.hotmobile.org/main/), and the [ACM/IEEE Symposium on Edge Computing](http://acm-ieee-sec.org/).
-  * In collaboration with the [Elijah Group](https://elijah.cs.cmu.edu/) at Carnegie Mellon University.
+* Designing a camera software for welding robots. Full stack from hardware to frontend.
+  * Planning the process with UML diagrams.
+  * Frontend in Angular with FastAPI endpoints.
+  * Python state machines and microservices communicating over redis and memcached.
+  * C/C++ embedded programming on a raspberry pi 4 and stm32.
+  * Multiplatform automated tests with Github Actions and Docker.
 
-### Universidad de Chile, Chile | Lecturer (Remote) | 08/2021 - 12/2021
+### OMV, Vienna | Sales Assistant | 09/2019 - 09/2019
 
-* Co-lectured a course on the fundamentals of the TCP/IP stack to 81 computer science undergraduates.
-* Designed innovative homework assignments using the Kathará simulator which were highly praised by students.
+* Developed various VBA and python scripts to speed up the daily workflows of the sales team.
+* Enhanced excel files performance and memory management.
 
-### NIC Chile Research Labs, Chile | Researcher and Software Developer | 08/2015 - 08/2017
+### Sanatorium Maimonides-Zentrum, Vienna | Civilian servant | 02/2017 - 10/2017
 
-* Awarded an engineering degree for the development of a simulator for Intelligent Transportation Systems in C++
-
-## Skills
-
-* **Programming languages:** Python (\~10 years of experience) | Java | Android | C++ | C | Bash
-* **System Administration:** Linux (\~10 years of experience) | Ansible
-* **Data analysis & visualization:** Pandas | Matplotlib | Numpy | Scipy | Jupyter | Apache Spark | Tableau
-* **Cloud Technologies:** AWS | DigitalOcean | GCP | Docker | Docker Swarm
-* **Database Technologies**: MySQL | PostgreSQL | SQLite.
-* **VCS and CI/CD Technologies:** Git | GitHub | GitHub Actions | Jenkins
-* **Networking:** Internetworking | DHCP | DNS | Routing | VLAN | NAT
-* **AI:** Applied statistics | Machine learning | Deep Neural Networks | scikit-learn | Tensorflow
-* **Spoken & Written Languages**: Spanish (native) | English (fluent) | Swedish (fluent) | Portuguese (basic)
+* Honored for the outstanding work.
 
 ## Education
 
-### Ph.D. in Electrical Engineering, expected graduation 09/2022 (current)
+### Master of Science in Software & Information Engineering, expected graduation 05/2025
 
-* KTH Royal Institute of Technology, Sweden
-* Doctoral Advisor: [James Gross, Ph.D.](https://jamesgross.org)
+* Vienna University of Technology, Austria
 
-### Computing Engineer (Professional Degree), graduated 08/2017
+### Bachelor in Science in Software & Information Engineering, expected graduation 05/2023
 
-* Universidad de Chile, Chile
-* GPA: 6.5/7.0 (*Highest Honors*).
-* Equivalent to an M.Sc.Eng.
+* Vienna University of Technology, Austria
+* Bachelor Thesis currently in work (Continuous and Robust Release Deployments).
 
-### Bachelor of Engineering Sciences in Computing, graduated 12/2014
+### Theresianum Wien, graduated 05/2016
 
-* Universidad de Chile, Chile
+* Focus on languages (french, english, russian, latin)
 
-## Selected Publications
 
-* Olguín Muñoz *et al.* 2021. [Impact of delayed response on wearable cognitive assistance.](https://doi.org/10.1371/journal.pone.0248690) In PLOS ONE.
-* Olguín Muñoz *et al.* 2019. [EdgeDroid: An Experimental Approach to Benchmarking Human-in-the-Loop Applications.](http://doi.acm.org/10.1145/3301293.3302353) In Proceedings of the 20th International Workshop on Mobile Computing Systems and Applications (HotMobile '19).
-* Olguín Muñoz *et al.* 2018. [Demo: Scaling on the Edge - A Benchmarking Suite for Human-in-the-Loop Applications.](https://ieeexplore.ieee.org/document/8567676) In Proceedings of the 2018 IEEE/ACM Symposium on Edge Computing (SEC '18).
+## Skills
+
+* **Languages:** Bulgarian(native) | German (native) | English (fluent) | French (fluent) | Russian (basic)
+* **Programming languages:** Java | Python | Javascript | C++ | C | VBA | Go | Haskell
+* **System Technologies:** Linux | Windows Server | FreeRtos | HyperV
+* **Data analysis & visualization:** Pandas | Matplotlib | Numpy | Scipy | Jupyter
+* **Cloud Technologies:** Docker | Docker Swarm | Kubernetes
+* **Database Technologies**: MySQL | Redis | Memcached
+* **VCS and CI/CD Technologies:** Git | Github | Gitlab | Github Actions | Jenkins
+
+## Projects
+
+* [LibElektra 2022.](https://github.com/ElektraInitiative/libelektra) Contributing to the public git repository.
+* [Mancala AI Agent 2021.](https://github.com/4ydan/Mancala-MCTS-Agent) An agent implementing the Monte carlo tree search algorithm.
+* [Filmer 2021.](https://github.com/CodeExpertss/MovieTinder) A movie exploration webapp.
+* [KasaWiFiPlug 2020.](https://github.com/4ydan/KasaWiFiPlug) A python script to communicate with the Kasa WiFi Plug.
+* [N-body simulation 2019.](https://github.com/4ydan/n-body-simulation) A simulation of the N-body problem in Java.
