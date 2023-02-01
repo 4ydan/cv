@@ -9,7 +9,8 @@ pagetitle: Aydan Namdar Ghazani
 <header>
   <h1>Namdar Ghazani, Aydan</h1>
   <span><p>
-  [<i class="fa-solid fa-map-location"></i>&nbsp;Adelheid-poppgasse 20, Vienna, 1220](https://goo.gl/maps/sc3xXZbSfJEg6QfA7)</br>
+  [<i class="fa-solid fa-map-location"></i>&nbsp;Adelheid-poppgasse 20](https://goo.gl/maps/sc3xXZbSfJEg6QfA7)</br>
+  Vienna, 1220</br>
   [<i class="fa-solid fa-phone"></i>&nbsp;+43 6649156233](tel:+43 6649156233)</br>
   [<i class="fas fa-envelope"></i>&nbsp;ghazani.aydan@gmail.com](mailto:ghazani.aydan@gmail.xyz)</br>
   DOB: 11.05.1998 &nbsp; Age:24</br>
@@ -29,7 +30,22 @@ pagetitle: Aydan Namdar Ghazani
 * 2 years of cutting edge experience in the welding industry using Python/C++ and Linux.
 * Interested in Software Engineering projects especially DevOps and Testing.
 
-## Experience
+## Education
+
+### Master of Science in Software Engineering & Internet Computing, expected graduation 05/2025
+
+* Vienna University of Technology, Austria
+
+### Bachelor of Science in Software & Information Engineering, expected graduation 05/2023
+
+* Vienna University of Technology, Austria
+* Bachelor Thesis currently in work (Continuous and Robust Release Deployments).
+
+### Theresianum Wien, graduated 05/2016
+
+* Focus on languages (french, english, russian, latin)
+
+## Summary of relevant work experience
 
 ### KDS, Vienna | Software Engineer | 10/2019 - Present
 
@@ -49,25 +65,9 @@ pagetitle: Aydan Namdar Ghazani
 
 * Honored for the outstanding work.
 
-## Education
-
-### Master of Science in Software Engineering & Internet Computing, expected graduation 05/2025
-
-* Vienna University of Technology, Austria
-
-### Bachelor of Science in Software & Information Engineering, expected graduation 05/2023
-
-* Vienna University of Technology, Austria
-* Bachelor Thesis currently in work (Continuous and Robust Release Deployments).
-
-### Theresianum Wien, graduated 05/2016
-
-* Focus on languages (french, english, russian, latin)
-
-
 ## Skills
 
-* **Languages:** Bulgarian (native) | German (native) | English (fluent) | French (fluent) | Russian (basic)
+* **Written & Spoken Languages:** Bulgarian (mother tongue) | German (native) | English (fluent) | French (fluent) | Russian (basic)
 * **Programming languages:** Java | Python | Javascript | C++ | C | VBA | Go | Haskell
 * **System Technologies:** Linux | Windows Server | FreeRtos | HyperV
 * **Data analysis & visualization:** OpenCV | Numpy | Pandas | Matplotlib | Scipy | Jupyter
@@ -80,5 +80,4 @@ pagetitle: Aydan Namdar Ghazani
 * [LibElektra 2022.](https://github.com/ElektraInitiative/libelektra) Contributing to the public git repository.
 * [Mancala AI Agent 2021.](https://github.com/4ydan/Mancala-MCTS-Agent) An agent implementing the Monte carlo tree search algorithm.
 * [Filmer 2021.](https://github.com/CodeExpertss/MovieTinder) A movie exploration webapp.
-* [KasaWiFiPlug 2020.](https://github.com/4ydan/KasaWiFiPlug) A script to communicate with the Kasa WiFi Plug.
 * [N-body simulation 2019.](https://github.com/4ydan/n-body-simulation) A simulation of the N-body problem.
