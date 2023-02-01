@@ -70,7 +70,7 @@ pagetitle: Aydan Namdar Ghazani
 * **Written & Spoken Languages:** Bulgarian (mother tongue) | German (native) | English (fluent) | French (fluent) | Russian (basic)
 * **Programming languages:** Java | Python | Javascript | C++ | C | VBA | Go | Haskell
 * **System Technologies:** Linux | Windows Server | FreeRtos | HyperV
-* **Data analysis & visualization:** OpenCV | Numpy | Pandas | Matplotlib | Scipy | Jupyter
+* **Data analysis & Visualization:** OpenCV | Numpy | Pandas | Matplotlib | Scipy | Jupyter
 * **Cloud Technologies:** Docker | Docker Swarm | Kubernetes
 * **Database Technologies**: MySQL | Redis | Memcached
 * **VCS and CI/CD Technologies:** Git | Github | Gitlab | Github Actions | Jenkins
