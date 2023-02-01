@@ -25,9 +25,9 @@ pagetitle: Aydan Namdar Ghazani
 
 ## Summary
 
-Master student at TU Vienna.
-
+* Bachelor and Masters student at TU Vienna.
 * 4 years of part-time cutting edge experience in the welding industry using Python/C++ and Linux.
+* Interested in Software Engineering projects especially DevOps and Testing.
 
 ## Experience
 
@@ -55,7 +55,7 @@ Master student at TU Vienna.
 
 * Vienna University of Technology, Austria
 
-### Bachelor in Science in Software & Information Engineering, expected graduation 05/2023
+### Bachelor of Science in Software & Information Engineering, expected graduation 05/2023
 
 * Vienna University of Technology, Austria
 * Bachelor Thesis currently in work (Continuous and Robust Release Deployments).
@@ -70,7 +70,7 @@ Master student at TU Vienna.
 * **Languages:** Bulgarian (native) | German (native) | English (fluent) | French (fluent) | Russian (basic)
 * **Programming languages:** Java | Python | Javascript | C++ | C | VBA | Go | Haskell
 * **System Technologies:** Linux | Windows Server | FreeRtos | HyperV
-* **Data analysis & visualization:** Pandas | Matplotlib | Numpy | Scipy | Jupyter
+* **Data analysis & visualization:** OpenCV | Numpy | Pandas | Matplotlib | Scipy | Jupyter
 * **Cloud Technologies:** Docker | Docker Swarm | Kubernetes
 * **Database Technologies**: MySQL | Redis | Memcached
 * **VCS and CI/CD Technologies:** Git | Github | Gitlab | Github Actions | Jenkins
@@ -80,5 +80,5 @@ Master student at TU Vienna.
 * [LibElektra 2022.](https://github.com/ElektraInitiative/libelektra) Contributing to the public git repository.
 * [Mancala AI Agent 2021.](https://github.com/4ydan/Mancala-MCTS-Agent) An agent implementing the Monte carlo tree search algorithm.
 * [Filmer 2021.](https://github.com/CodeExpertss/MovieTinder) A movie exploration webapp.
-* [KasaWiFiPlug 2020.](https://github.com/4ydan/KasaWiFiPlug) A python script to communicate with the Kasa WiFi Plug.
-* [N-body simulation 2019.](https://github.com/4ydan/n-body-simulation) A simulation of the N-body problem in Java.
+* [KasaWiFiPlug 2020.](https://github.com/4ydan/KasaWiFiPlug) A script to communicate with the Kasa WiFi Plug.
+* [N-body simulation 2019.](https://github.com/4ydan/n-body-simulation) A simulation of the N-body problem.
