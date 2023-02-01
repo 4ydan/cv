@@ -26,7 +26,7 @@ pagetitle: Aydan Namdar Ghazani
 ## Summary
 
 * Bachelor and Masters student at TU Vienna.
-* 4 years of part-time cutting edge experience in the welding industry using Python/C++ and Linux.
+* 2 years of cutting edge experience in the welding industry using Python/C++ and Linux.
 * Interested in Software Engineering projects especially DevOps and Testing.
 
 ## Experience
