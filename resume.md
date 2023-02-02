@@ -47,7 +47,7 @@ pagetitle: Aydan Namdar Ghazani
 
 ## Summary of relevant work experience
 
-### KDS, Vienna | Software Engineer | 10/2019 - Present
+### KDS, Wiener Neudorf | Software Engineer | 10/2019 - Present
 
 * Designing a camera software for welding robots. Full stack development.
   * Planning the process with UML diagrams.
